@@ -1,0 +1,26 @@
+	{
+  "name": "skryte_pamatky",
+  "version": "0.0.1",
+  "author": "Als <asvoboda@centrum.cz>",
+  "description": "Skryte pamatky",
+  "main": "scripts/server.js",
+  "keywords": [],
+  "homepage": "http://www.skrytepamatky.cz/",
+  "main": "scripts/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "latest"
+    ,"karma": "latest"
+    ,"karma-ie-launcher": "latest"
+    ,"karma-safari-launcher": "latest"
+    ,"karma-junit-reporter": "latest"
+    ,"karma-coverage": "latest"
+    ,"karma-jshint-preprocessor": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  },
+  "license": "CDM"
+}
